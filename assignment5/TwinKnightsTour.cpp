@@ -1,9 +1,3 @@
-/*
-* Name: Chan Chun Ming
-* SID: 1155163257
-* Email: 1155163257@link.cuhk.edu.hk
-*/
-
 #include <iostream>
 #include "TwinKnightsTour.h"
 
