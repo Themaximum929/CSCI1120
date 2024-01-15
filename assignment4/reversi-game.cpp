@@ -1,7 +1,3 @@
-// Name:       Chan Chun Ming   
-// Student ID: 1155163257
-// Email:      maxchan929@gmail.com
-
 #include <iostream>
 #include <string.h>
 #include <string>
