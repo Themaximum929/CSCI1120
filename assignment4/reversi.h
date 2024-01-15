@@ -1,7 +1,3 @@
-// Name:       Chan Chun Ming   
-// Student ID: 1155163257
-// Email:      maxchan929@gmail.com
-
 #ifndef REVERSI_H
 #define REVERSI_H
 
