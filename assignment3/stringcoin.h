@@ -1,7 +1,3 @@
-// Name:       Chan Chun Ming	
-// Student ID: 1155163257	
-// Email:      1155163257@link.cuhk.edu.hk
-
 #ifndef STRINGCOIN_H
 #define STRINGCOIN_H
 
